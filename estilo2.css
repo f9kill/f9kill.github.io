@@ -84,10 +84,10 @@
 }
 
 .shell {
-    border: 1px solid silver;
+    border: 1px solid #0E0E0E;
     padding: 10px 10px;
-    background-color: black;
-    color: silver;
+    background-color: #252525;
+    color: #F0F0F0;
     width: 90%;
     font-family: Hack;
     font-size: 13px;
@@ -101,6 +101,7 @@ h1, h2, h3, h4, h5 {
 
 p {
     font-family: 'Open Light';
+    font-size: 15px;
 }
 
 a {
